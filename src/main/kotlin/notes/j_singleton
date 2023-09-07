@@ -1,0 +1,4 @@
+//singeton adalah class yang dimana nanti object dari class tersebut hanya bisa dibuat satu kali artinya berapapun class tersebut nanti
+//instansiasi/membuat object nya maka data dari object value nya akan tetap sama.
+
+//untuk mengetahui cara pembuatan singleton lihat di package data file

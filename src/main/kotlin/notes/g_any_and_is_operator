@@ -1,0 +1,8 @@
+
+
+//Any adalah type data object yang bisa menerima data object apapun sebagai value nya.
+//untuk mengetahui cara pembuatan type data Any lihat di package data file Computer.
+
+
+//is operator adalah operator untuk melakukan pengecekan value data object ataupun melakukan pengecekan apakah sebuah object merupakan turunan dari object lain.
+//untuk mengetahui cara penggunaan is operator lihat di package data file Computer.

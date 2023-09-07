@@ -1,0 +1,4 @@
+//exception adalah cara untuk menangani code program error dan membuatnya berhenti pada saat terjadi kesalahan pada code tersebut,
+//di kotlin semua error yang terjadi merupakan turunan dari class/object Throwable.
+
+//untuk mengetahui cara pembuatan exception lihat di package data file User

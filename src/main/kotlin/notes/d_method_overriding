@@ -1,0 +1,5 @@
+//method overriding adalah keadaan dimana sebuah child class ingin membuat method dengan nama yang sama seperti method yang sudah tersedia
+//pada parent class nya, untuk melakukan itu maka method yang tersedia di parent class itu harus diberi keyword open
+//agar child class nya bisa membuat method dengan nama yang sama seperti di class parent nya.
+
+//untuk mengetahui cara pembuatan method overriding lihat di package data file School

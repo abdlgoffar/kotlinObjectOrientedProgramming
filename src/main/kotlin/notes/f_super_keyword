@@ -1,0 +1,3 @@
+//super keyword digunakan apabila class child ingin mengakses method atau properties yang sudah dibuat ulang oleh child class tersebut
+
+//untuk mengeatahui cara penggunaan super keyword lihat di package data file CityGovernment

@@ -1,0 +1,4 @@
+//lateinit adalah cara untuk membuat sebuah properties tidak di isi dahulu datanya, karena by default sebuah properties di kotlin
+//tidak bisa dibuat apabila datanya tidak di isi.
+
+//untuk mengetahui cara pengggunaan lateinit lihat di package data file Laptop

@@ -1,0 +1,3 @@
+//enum adalah class yang dikhususkan membuat sebuah data properties nya bersifat tidak bisa di ubah-ubah
+
+//untuk mengetahui cara pembuatan enum lihat di pacakage data file Gender

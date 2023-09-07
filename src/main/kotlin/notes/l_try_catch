@@ -1,0 +1,6 @@
+//try catch adalah sebuah block code untuk menangani exception agar program tidak berhenti saat terjadi exception.
+//try catch yang terdiri dari block try untuk menangani sebuah code yang kemungkinan akan terjadi exception,
+//lalu block catch berguna untuk menampilkan exception/kesalahan pada code akan terjadi exception.
+
+
+//untuk mengetahui cara pembuatan try catch lihat package data file Test

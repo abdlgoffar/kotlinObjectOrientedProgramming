@@ -1,0 +1,6 @@
+//properties adalah variable, field yang hanya di akses oleh class yang memiliki properties tersebut.
+
+//constructor adalah method yang akan otomatis dipanggil pada saat object dari sebuah class dibuat.
+
+//init adalah sebuah block kode yang akan otomatis di eksekusi ketika sebuah constructor dipanggil.
+//untuk melihat bagaimana cara membuat properties, constructor, dan init lihat di package data file Person.

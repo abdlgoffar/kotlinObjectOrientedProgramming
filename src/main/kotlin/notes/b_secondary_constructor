@@ -1,0 +1,4 @@
+//secondary constructor dibuat apabila kondisi dimana sebuah class membutuhkan elebih dari satu constructor, namun syarat utamanya
+//pada saat membuat secondary constructor dan class itu juga sedang memiliki constaructor utama maka wajib memanggil data parameter sebuah constructor utamanya.
+
+//untuk melihat contoh secondary constructor lihat di package data file Person
